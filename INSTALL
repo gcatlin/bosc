@@ -1,0 +1,13 @@
+New Install:
+
+1. Download and unzip the latest version of Bosc.
+2. Put the 'bosc' directory anywhere you'd like it to be.
+3. Include 'bosc/src/bosc.inc.php' from any page that you want to have access to the Bosc classes.
+
+Upgrade:
+
+1. Delete 'bosc' directory.
+2. Follow New Install instructions.
+
+
+That's it!

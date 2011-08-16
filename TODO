@@ -1,0 +1,30 @@
+General:
+  o README, INSTALL, CHANGELOG
+  o Documentation
+  o Stablize API
+  o Unit testing (http://www.lastcraft.com/)
+  o Refactor trace/var_trace (Object? Debug? Use a collapsable html tree for output)
+  o browse PEAR for inspiration
+
+Coding:
+  o Rename ArrayList->List, HashMap->Map
+  o Url::getAbsolute issues (http://www.ietf.org/rfc/rfc1630.txt, search for 'magic')
+  o Url::_context issues, relative urls (no scheme set initially then scheme later set, path and host should be adjusted, www.example.com)
+  o Url::_context and authority
+  o Url current document (via Request) as default context?
+  o Response::encodeUrl() SID issue
+  o Session::isCookied/SID issues, Session::setHandler parameters
+  o File::size(), File::copyTo(), File::moveTo(), File::rename() issues
+  o rename all class properties to $_varname
+  o CacheFile / CacheLiteFile
+  o ResultSet::reset() ??
+  o look into magic_quotes issues with File/FileReader/FileWriter
+  o add proper whitespace to [+-/*,;] in all files, remove trailing whitespace
+  o re-format long lines of code
+  o ADOdb Connection::execute(), cache_dir, error handler, session handler, caching tests, etc
+  o PreparedStatement/Statement refactoring
+  o Xdebug profiling
+  o gd_functions and pdf_functions
+  o determine php version requirement
+  o Response::end() FilterChain issue (solved?)
+  o http (Upload(File), Download(File), Client, Header?)

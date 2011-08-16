@@ -1,0 +1,80 @@
+Bosc
+Version 0.6.0
+
+What is Bosc?
+-------------
+
+Bosc is a PHP class library for writing web applications.
+
+
+Obtaining Bosc
+--------------
+
+Further information on Bosc and the latest version can be obtained at
+
+  http://www.bosc-project.org/
+
+
+Documentation
+-------------
+
+The following documentation is available in the Bosc distribution:
+
+README    - This file
+LICENSE   - Copyright and license information
+CHANGELOG - List of changes by release
+INSTALL   - Installation instructions
+TODO      - Things planned
+VERSION   - Current version
+
+
+Installation
+------------
+
+Instructions for installing Bosc can be found in the file INSTALL
+in the docs/ directory of the Bosc distribution.
+
+
+Assistance
+----------
+
+If you encounter problems with Bosc, help is available! 
+
+The Bosc Frequently Asked Questions List (FAQ), available on the Web
+at
+ 
+  http://www.bosc-project.org/faq/
+
+The Bosc Project runs a number of mailing lists, for individual
+applications and for issues relating to the project as a whole.
+Information, archives, and subscription informatoin can be found at
+
+  http://www.bosc-project.org/mail/
+
+Lastly, Bosc developers, contributors and users also make occasional
+appearances on IRC, on the channel #Bosc on the freenode Network
+(irc.freenode.net).
+
+
+Licensing
+---------
+
+For licensing and copyright information, please see the file
+COPYING in the Bosc distribution.
+
+Thanks,
+
+codezilla
+codezilla@bosc-project.org
+
+$Bosc: Bosc/README,v 2.4.2.11 2004/09/21 08:00:09 jan Exp $
+
+
+Similar projects:
+    o PEAR    http://pear.php.net/
+    o Eclipse http://sourceforge.net/projects/eclipselib/
+    o Eocene  http://sourceforge.net/projects/eocene-php/
+    o Japha   http://sourceforge.net/projects/japha/
+    o Javuh   http://sourceforge.net/projects/javuh/
+    o PHPLIB  http://sourceforge.net/projects/phplib/
+    o WACT    http://sourceforge.net/projects/wact/
